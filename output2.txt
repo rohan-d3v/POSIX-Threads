@@ -1,0 +1,190 @@
+Rohan Krishna Ramkhumar
+Case ID: rxr353
+Assignment 7: Baboon crossing problem using pThreads and Semaphores
+*****************
+
+Parent Process PID: 25036 
+****
+Thread 0: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 1: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 2: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 3: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 4: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 5: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 6: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 7: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 8: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 9: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 10: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 11: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 12: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 13: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 14: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 15: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 16: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 17: About to cross
+Baboon is Crossing from B to A
+Crossing Finished
+Signalling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+Signaling Mutex
+****
+Thread 18: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
+****
+Thread 19: Baboon Crossing from A to B
+Baboon is Crossing from A to B
+Signaling Mutex
+Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction Reset 
