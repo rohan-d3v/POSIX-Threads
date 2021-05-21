@@ -4,11 +4,11 @@
 * Assignment 7: Baboon crossing problem using pThreads and Semaphores
 */
 
-#include <pthread.h>  
 #include <semaphore.h> 
 #include <stdio.h>    
 #include <stdlib.h>
 #include <unistd.h>	
+#include <pthread.h>  
 
 #ifndef tNum
 #define tNum 20
